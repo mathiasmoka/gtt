@@ -1,0 +1,11 @@
+secteur,mu_DEPART,mu_MER,mu_ARRIVEE,n_DEPART,n_MER,n_ARRIVEE,n_voyages
+Détroit de Malacca ↔ Détroit de Malacca,0.0434,-0.0002,0.0415,68,5318,25,7
+Détroit de Malacca ↔ Golfe Persique,1.1701,0.0092,-1.2952,37,9076,111,32
+Détroit de Malacca ↔ Inde,0.4192,-0.0075,-0.9425,92,924,14,5
+Détroit de Malacca ↔ Mer Rouge,-0.6237,0.0098,-0.6103,43,8365,79,27
+Golfe Persique ↔ Golfe Persique,0.1715,0.0008,-0.4232,125,1517,56,9
+Golfe Persique ↔ Inde,2.7815,0.0137,-1.0476,26,2828,114,23
+Golfe Persique ↔ Mer Rouge,1.0685,0.0194,-1.2757,10,2797,47,10
+Inde ↔ Inde,-0.4441,0.009,-0.0318,11,661,3,1
+Inde ↔ Mer Rouge,-0.2601,0.0147,-1.7402,7,557,12,3
+Mer Rouge ↔ Mer Rouge,-0.0683,-0.0,0.145,191,2470,7,10
